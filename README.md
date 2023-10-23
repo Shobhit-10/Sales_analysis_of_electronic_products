@@ -1,12 +1,10 @@
-#Sales_analysis_of_electronic_products
-
-📊
+# Sales_analysis_of_electronic_products 📊
 
 I have analyse the data of electronic products sales of 12 months.
 
 
 
-Tech stack used🧑‍💻-
+## 🖇️Tech stack used🧑‍💻-
 
   Language- python
   
@@ -17,7 +15,7 @@ Tech stack used🧑‍💻-
 
   
 
-Tasks📝-
+## 🖇️Tasks📝-
 
 1- Combined 12 csv files of all months to a single csv file.
 
@@ -28,11 +26,11 @@ Tasks📝-
 
 
   
-Queries solved with data visualization ❓- 
+## 🖇️Queries solved with data visualization ❓- 
 
 Question 1-  What was the best month for sales? How much was earned that month?
 
-question 2- which city has highest sales?
+question 2- Which city has highest sales?
 
 Question 3- What time should we display advertisements to maximize likelihood of customer's buying product?
 
